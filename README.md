@@ -22,3 +22,7 @@ This repository documents:
 - Cloud Security
 - Security Operations
 - Risk Assessments
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ariellezayas)
